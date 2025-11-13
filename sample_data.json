@@ -1,0 +1,42 @@
+{
+    "samples": [
+        {
+            "first_name": "Xavier",
+            "last_name": "Lewis",
+            "dob": "1971-10-14",
+            "ssn": "230-78-7126",
+            "decision": "approved"
+        },
+        {
+            "first_name": "Paul",
+            "last_name": "Allen",
+            "dob": "1967-04-26",
+            "ssn": "386-29-5510",
+            "decision": "manual_review"
+        },
+        {
+            "first_name": "Yara",
+            "last_name": "Jackson",
+            "dob": "2010-02-04",
+            "ssn": "188-66-4589",
+            "decision": "approved"
+        },
+        {
+            "first_name": "Kate",
+            "last_name": "Thomas",
+            "dob": "2004-11-09",
+            "ssn": "963-34-9235",
+            "decision": "manual_review"
+        },
+        {
+            "first_name": "Samuel",
+            "last_name": "Roberts",
+            "dob": "1942-02-09",
+            "ssn": "360-33-2632",
+            "decision": "rejected"
+        }
+    ],
+    "count": 5,
+    "source": "https://idv-mcp-server-424279544153.us-central1.run.app/mcp/tools/get_sample_data",
+    "retrieved_at": "2024-12-19"
+}
